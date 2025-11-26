@@ -18,7 +18,7 @@ body{
     min-width: 280px;
     margin-inline: auto;
     align-items: center;
-    justify-items: center;
+    
   }
   
   .nav__container{
@@ -465,5 +465,6 @@ h3.money {
 }
 
 }
+
 
 
